@@ -1,3 +1,3 @@
 # ProgrammingPoem
 
-Code on Posts of Programming.blogspot.com
+Code snippet of Posts of Programming.blogspot.com
